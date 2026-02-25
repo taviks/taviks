@@ -23,7 +23,7 @@ pi-workspace-id    Persistent workspace IDs for pi session history
 prompts4all        A free and open-source library of AI prompts
                    https://github.com/taviks/prompts4all
 
-idea-folder        A simple approach to creating and managing ideas
+idea-folder        A simple approach to capturing and managing ideas
                    https://github.com/taviks/idea-folder
 
 
