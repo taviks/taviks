@@ -11,7 +11,7 @@ Longform           A writing app for long-form fiction and non-fiction (native, 
                    https://getlongform.com
 
 
-:: open source ::
+:::
 
 
 pi-llm-usage       Pi extension to check Anthropic & OpenAI usage
@@ -27,7 +27,7 @@ idea-folder        A simple approach to creating and managing ideas
                    https://github.com/taviks/idea-folder
 
 
-:: connect ::
+:::
 
 
 x                  https://x.com/_taviks
