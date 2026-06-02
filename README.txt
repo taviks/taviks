@@ -13,11 +13,8 @@ Longform           A writing app for long-form fiction and non-fiction (native, 
 :::
 
 
-pi-llm-usage       Pi extension to check Anthropic & OpenAI usage
-                   https://github.com/taviks/pi-llm-usage
-
-pi-workspace-id    Persistent workspace IDs for pi session history
-                   https://github.com/taviks/pi-workspace-id
+pi-tools           My custom Pi setup
+                   https://github.com/taviks/pi-tools
 
 prompts4all        A free and open-source library of AI prompts
                    https://github.com/taviks/prompts4all
