@@ -1,5 +1,4 @@
 
-
 :::
 
 
@@ -12,9 +11,6 @@ Longform           A writing app for long-form fiction and non-fiction (native, 
 
 :::
 
-
-pi-tools           My custom Pi setup
-                   https://github.com/taviks/pi-tools
 
 prompts4all        A free and open-source library of AI prompts
                    https://github.com/taviks/prompts4all
